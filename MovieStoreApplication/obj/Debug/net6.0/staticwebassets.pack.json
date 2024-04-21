@@ -1,0 +1,329 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\0ede5181-2995-483c-bc14-b903c95af299.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0ede5181-2995-483c-bc14-b903c95af299.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\0f6bea9e-e3f2-4466-8430-93f4be52a313.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\0f6bea9e-e3f2-4466-8430-93f4be52a313.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\18ee0442-c3bb-48e2-8a2d-b8952bc4867f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\18ee0442-c3bb-48e2-8a2d-b8952bc4867f.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\65f3edce-57dd-43a0-b352-d3219d818fb9.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\65f3edce-57dd-43a0-b352-d3219d818fb9.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\7e9454c0-2127-4e43-920f-2b2dfb96d78a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\7e9454c0-2127-4e43-920f-2b2dfb96d78a.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\932f269b-72e9-40f4-be6a-2764e285c0a5.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\932f269b-72e9-40f4-be6a-2764e285c0a5.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\93fedbd4-bd8d-4921-a722-40a9c6bb2c00.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\93fedbd4-bd8d-4921-a722-40a9c6bb2c00.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\9d1d7212-d923-40b0-b954-114239a53313.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\9d1d7212-d923-40b0-b954-114239a53313.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\ac174d1f-b5d4-4480-9e81-51708ec43f89.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ac174d1f-b5d4-4480-9e81-51708ec43f89.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\ccb70f86-227e-4c89-8340-a9dbf7fb4418.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ccb70f86-227e-4c89-8340-a9dbf7fb4418.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\Uploads\\ce5f63db-aab1-499d-a19b-85aa27dc97fa.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\ce5f63db-aab1-499d-a19b-85aa27dc97fa.jpg"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\aspnetcore\\MovieStoreApplication\\MovieStoreApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MovieStoreApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MovieStoreApplication.props",
+      "PackagePath": "build\\MovieStoreApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieStoreApplication.props",
+      "PackagePath": "buildMultiTargeting\\MovieStoreApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MovieStoreApplication.props",
+      "PackagePath": "buildTransitive\\MovieStoreApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
